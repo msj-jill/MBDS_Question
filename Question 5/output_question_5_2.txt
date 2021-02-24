@@ -1,0 +1,256 @@
+[['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B']
+ ['W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B'
+  'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'W' 'B' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G']
+ ['B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G' 'B' 'G'
+  'B' 'G' 'B' 'G' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y']
+ ['G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y' 'G' 'Y'
+  'G' 'Y' 'G' 'Y' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R']
+ ['G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R']
+ ['G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R']
+ ['G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R']
+ ['G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R'
+  'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R' 'G' 'R']]
